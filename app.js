@@ -1,1 +1,4 @@
-console.log(21+4)
+let sayHello = function () {
+    console.log("sayHello")
+}
+sayHello();
